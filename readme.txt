@@ -1,0 +1,1 @@
+To s¹ moje æwiczenia z git-a
