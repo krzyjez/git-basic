@@ -1,8 +1,8 @@
-versja 1.0.0
+versja 1.0.1
 
 To jest pierwsza wersja dokumentu
 1
-1
+2 zmiana
 1
 1
 1
