@@ -1,12 +1,15 @@
-Powershell
-==========
+# Powershell #
 
 * **pwd** - katalog, w którym jesteś
 
-GIT
-===
+# GIT #
+
 * **git init** - uruchomione w katalogu, w którym chcemy zrobić folder gita, zamieni folder w folder gitowy
 * **git status** - gdzie aktualnie się znajdujemy - w jakim repozytorium oraz status repozytorium
 * **git add .** - dodanie do **tracked** wszystkich plików i katalogów w aktualnym repozytorium, dodanie plików do **tracked** jednocześnie zmienia im status na **staged**. Również aby dodać zmieniony plik do **staged** musimy użyć polecenia **add**
 * **git commit** - robi commit wyświetlając edytor do napisania komunikatu - można to zrobić również tak: `git commit -m "komunikat to jest"`
-* **git diff** - pokazuje różnice w plikach **ale tylko tych, które nie są `staged`**, jeśli chce się wyświetlić różnice w plikach, które już dodaliśmy (i są `staged`) należy posłużyć się `git diff --staged`.  
+* **git diff** - pokazuje różnice w plikach **ale tylko tych, które nie są `staged`**, jeśli chce się wyświetlić różnice w plikach, które już dodaliśmy (i są `staged`) należy posłużyć się `git diff --staged`.
+
+## Branches ##
+* **git branch branchname** - tworzy nową gałąź o podanej nazwie ale nie przełącza się na tą gałąź
+* **git checkout branchname** - przełącza się na daną gałąź - ładuje ją, **uwaga! - jeśli w aktualnej gałęzi są jakieśnieskommitowane zmiany i przełączymy się na inną gałąź to zmiany te zostaną utracone!**   
