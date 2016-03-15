@@ -24,3 +24,5 @@
 * **git merge branchname** - merdżuje dwie gałęzie - należy znajdować się w tej gałęzi **do której** che się zmerdżować gałąź branchname 
 ## Inne ##
 * **.gitignore** - opis pliku znajduje się pod linkiem:[http://git-scm.com/docs/gitignore](http://git-scm.com/docs/gitignore)
+* **aliasy** - w configu gita można zdefiniować aliasy - czyli własne skróty długaśnych komend gita
+* 
