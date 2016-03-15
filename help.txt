@@ -12,4 +12,6 @@
 
 ## Branches ##
 * **git branch branchname** - tworzy nową gałąź o podanej nazwie ale nie przełącza się na tą gałąź
-* **git checkout branchname** - przełącza się na daną gałąź - ładuje ją, **uwaga! - jeśli w aktualnej gałęzi są jakieśnieskommitowane zmiany i przełączymy się na inną gałąź to zmiany te zostaną utracone!** (mam wrażenie, że często dochodzi do utracenia kawałka tekstu, może nie zapisałem wszystkiego na dysku).  
+* **git checkout branchname** - przełącza się na daną gałąź - ładuje ją, **uwaga! - jeśli w aktualnej gałęzi są jakieśnieskommitowane zmiany i przełączymy się na inną gałąź to zmiany te zostaną utracone!** (mam wrażenie, że często dochodzi do utracenia kawałka tekstu, może nie zapisałem wszystkiego na dysku). 
+* **git checkout -b branchname** - tworzy nową gałąź i przełącza się na nią
+* **git branch** - wyświetla wszystkie gałęzie zaznaczając gwiazdką tą, w której aktualnie się znajduje 
