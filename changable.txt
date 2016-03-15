@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 versja 1.0.4
+=======
+versja 1.0.8
+>>>>>>> File2Split
 
 To jest pierwsza wersja dokumentu
 1 To jest zmiana w masterq
