@@ -1,7 +1,7 @@
-versja 1.0.3
+versja 1.0.4
 
 To jest pierwsza wersja dokumentu
-1 To jest zmiana w master
+1 To jest zmiana w masterq
 2 zmiana
 3 tą zmianę chcę zapisać w gałęzi addfonts
 4 druga zmiana w addfonts 
