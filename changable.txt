@@ -1,4 +1,4 @@
-versja 1.0.3
+versja 1.0.8
 
 To jest pierwsza wersja dokumentu
 1
