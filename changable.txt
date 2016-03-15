@@ -1,8 +1,8 @@
-versja 1.0.1
+versja 1.0.2
 
 To jest pierwsza wersja dokumentu
 1
 2 zmiana
-1
+1 tą zmianę chcę zapisać w gałęzi addfonts
 1
 1
