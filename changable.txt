@@ -6,3 +6,4 @@ To jest pierwsza wersja dokumentu
 3 tą zmianę chcę zapisać w gałęzi addfonts
 4 druga zmiana w addfonts 
 1
+5 to jest zmiana w File2Split branch
