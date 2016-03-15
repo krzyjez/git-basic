@@ -1,0 +1,4 @@
+* **pwd** - katalog, w którym jesteś
+* **git init** - uruchomione w katalogu, w którym chcemy zrobić folder gita, zamieni folder w folder gitowy
+* **git status** - gdzie aktualnie się znajdujemy - w jakim repozytorium oraz status repozytorium
+* **git add .** - dodanie do **tracked** wszystkich plików i katalogów w aktualnym repozytorium, dodanie plików do **tracked** jednocześnie zmienia im status na **staged**. Również aby dodać zmieniony plik do **staged** musimy użyć polecenia **add**
