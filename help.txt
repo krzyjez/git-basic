@@ -8,3 +8,5 @@ GIT
 * **git init** - uruchomione w katalogu, w którym chcemy zrobić folder gita, zamieni folder w folder gitowy
 * **git status** - gdzie aktualnie się znajdujemy - w jakim repozytorium oraz status repozytorium
 * **git add .** - dodanie do **tracked** wszystkich plików i katalogów w aktualnym repozytorium, dodanie plików do **tracked** jednocześnie zmienia im status na **staged**. Również aby dodać zmieniony plik do **staged** musimy użyć polecenia **add**
+* **git commit** - robi commit wyświetlając edytor do napisania komunikatu - można to zrobić również tak: `git commit -m "komunikat to jest"`
+* **git diff** - pokazuje różnice w plikach **ale tylko tych, które nie są `staged`**, jeśli chce się wyświetlić różnice w plikach, które już dodaliśmy (i są `staged`) należy posłużyć się `git diff --staged`.  
