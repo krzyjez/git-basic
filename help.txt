@@ -22,6 +22,13 @@
 * **git checkout -b branchname** - tworzy nową gałąź i przełącza się na nią
 * **git branch** - wyświetla wszystkie gałęzie zaznaczając gwiazdką tą, w której aktualnie się znajduje 
 * **git merge branchname** - merdżuje dwie gałęzie - należy znajdować się w tej gałęzi **do której** che się zmerdżować gałąź branchname 
+
+## Stashing ##
+Stashing jest po to by móc przełączać się między gałęziami bez konieczności commitu - np. gdy musimy szybko w jakiejś gałęzi coś zmienić a aktualną gałąź mamy rozgrzebaną i nie nadaje się do commitu. Stashing można przetłumaczyć jako "odkładanie" - zmian na bok, na półkę?
+* **git stash** - odkładamy zmiany na półkę.
+* **git stash list** - możemy przejrzeć wszystkie odłożone zmiany
+* **git stash apply** - wracamy do odłożonych na półce zmian (przywracamy je)
+
 ## Inne ##
 * **.gitignore** - opis pliku znajduje się pod linkiem:[http://git-scm.com/docs/gitignore](http://git-scm.com/docs/gitignore)
 * **aliasy** - w configu gita można zdefiniować aliasy - czyli własne skróty długaśnych komend gita
